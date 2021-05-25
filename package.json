@@ -1,5 +1,5 @@
 {
-  "name": "journeyapps-sqlcipher-alt",
+  "name": "node-sqlcipher-alt",
   "description": "Asynchronous, non-blocking SQLCipher bindings",
   "version": "5.2.0",
   "homepage": "http://github.com/journeyapps/node-sqlcipher",
